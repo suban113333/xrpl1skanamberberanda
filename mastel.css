@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bowlby+One+SC&family=Edu+SA+Beginner:wght@500&family=Lilita+One&family=Montserrat&family=Poppins:wght@300;700&family=REM&family=Rancho&family=Rock+Salt&family=Rowdies&family=Ysabeau+SC&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: rgb(14, 14, 14);
+    min-height:900px;
+}
+
+html{
+    font-family: 'Montserrat' , sans-serif;
+    font-size: 10px;
+}
+
+.head2 {
+    top: 0;
+    position: fixed;
+    z-index: 1;
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    box-shadow: 5px 5px 20px black;
+}
+
+.head2 h1{
+    color: white;
+    font-weight: 950;
+    font-size: 20px;
+}
+.head2 h2{
+    color: crimson;
+    font-weight: 950;
+    font-size: 20px;
+}
+
+.isi {
+    text-align: center;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+
+.isi h1{
+    color: white;
+    font-size: 13px;
+}
+
+.isi p {
+    margin-top: -37px;
+    padding: 40px;
+    color: white;
+}
+
+.isi h2 {
+    padding: 10px;
+    margin-top: -50px;
+}
+
+.isi h2 a{
+    text-decoration: none;
+    font-size: 10px;
+    margin-top: 2px;
+    color: crimson;
+    width: 2px;
+    padding: 4px 0;
+}
+
+.ris {
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    margin-top: 10px;
+    width: 100%;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.4;
+}
+
+.tujuan {
+    margin-top: 40px;
+}
+.tujuan h1 {
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+.tujuan h1 span{
+    color: crimson;
+}
+.tujuan p {
+    margin-top: -50px;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.ig2 h1 {
+    color: crimson;
+    text-align: center;
+}
+
+.ig2 h1 span {
+    color: white;
+}
+
+.ig2 img {
+    display: block;
+    height: 320px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+.ig2 p{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.isibwh2 {
+    color: white;
+    text-align: center;
+}
+
+.isibwh2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.isibwh2 h1{
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid crimson;
+    box-shadow: 0 0 20px black;
+
+}
+
+.lap2 h1{
+    margin-top: 50px;
+    color: crimson;
+    font-weight: 300;
+    text-align: center;
+}
+
+.lap2 p {
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-top: -20px;
+}
+.foot2 .f {
+    margin-top: 40px;
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    box-shadow: 0 0 20px black;
+}
+
+
+.f h1 {
+    font-size: 7px;
+    text-align: center;
+    color: white;
+}
+
+.f img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.f p {
+    color: white;
+    font-size: 8px;
+    text-align: center;
+    margin-top: 2px;
+    font-weight: 550;
+}
